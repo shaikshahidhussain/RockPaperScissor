@@ -5,11 +5,11 @@ This repository contains a basic implementation of the classic Rock, Paper, Scis
  <li>The winner is determined based on the following: </li> 
 </ol>
 <ul>
-  <li>Rock smashes scissors.</li>
-  <li>Paper covers rock.</li>
-  <li>Scissors cut paper.</li>
+  <li>Rock🪨 smashes scissors✂️.</li>
+  <li>Paper📄 covers rock🪨.</li>
+  <li>Scissors✂️ cut paper📄.</li>
 </ul>  
-<h2>How to Play</h2>
+<h2>How to Play🎮</h2>
 <ol>
  
 <li>Clone this repository to your local machine.</li>
