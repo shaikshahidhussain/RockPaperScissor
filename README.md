@@ -4,7 +4,10 @@ This repository contains a basic implementation of the classic Rock, Paper, Scis
  <li>Participants choose either rock, paper, or scissors.</li>
  <li>The winner is determined based on the following: </li> 
 </ol>
-![rockpaperscissors](https://github.com/shaikshahidhussain/RockPaperScissor/assets/142425622/71057e0a-6cbe-42b7-b6b2-de9339330c36)
+<img src="
+![rockpaperscissors](https://github.com/shaikshahidhussain/RockPaperScissor/assets/142425622/71057e0a-6cbe-42b7-b6b2-de9339330c36)" >
+[Rock](https://github.com/shaikshahidhussain/RockPaperScissor/assets/142425622/d888dd3c-00be-4d5b-8730-eeba963059f1)
+
 
 
 <ul>
@@ -13,12 +16,16 @@ This repository contains a basic implementation of the classic Rock, Paper, Scis
   <li>Scissors cut paper.</li>
 </ul>  
 <h2>How to Play</h2>
-Clone this repository to your local machine.
-Open the terminal or command prompt and navigate to the project directory.
-Run the Python script using the command:
-python rock_paper_scissors.py
+<ol>
+ 
+<li>Clone this repository to your local machine.</li>
+<li>Open the terminal or command prompt and navigate to the project directory.</li
+<li>Run the Python script using the command:</li>
+<span>python RockPaperscissor.py</span>
+<li>Follow the prompts to make your choice (rock, paper, or scissors).</li>
+<li>The computer will randomly select its choice.</li>
+<li>The winner will be displayed on the screen.</li>
+</ol>
 
-Follow the prompts to make your choice (rock, paper, or scissors).
-The computer will randomly select its choice.
-The winner will be displayed on the screen.
+
 Feel free to customize the code, add more features, or improve the user experience. Have fun playing Rock, Paper, Scissors! 🎮🪨📄✂️
