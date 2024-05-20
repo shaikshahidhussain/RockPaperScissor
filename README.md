@@ -4,6 +4,8 @@ This repository contains a basic implementation of the classic Rock, Paper, Scis
  <li>Participants choose either rock, paper, or scissors.</li>
  <li>The winner is determined based on the following: </li> 
 </ol>
+![rockpaperscissors](https://github.com/shaikshahidhussain/RockPaperScissor/assets/142425622/71057e0a-6cbe-42b7-b6b2-de9339330c36)
+
 
 <ul>
   <li>Rock smashes scissors.</li>
